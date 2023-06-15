@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Apurv
+- 👋 Hi, I’m Aradhya
 - 👀 I’m interested in Tech
 - 🌱 I’m currently learning Java
 - 📫 How to reach me - iykyk
